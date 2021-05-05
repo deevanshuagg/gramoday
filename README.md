@@ -6,4 +6,8 @@ assignment solutions
    - sdate and edate can be adjusted according to the needs of the client in the format year,month,date
    - the output will be in the form of list where each table will represent data of that particular day.
    
-2.     
+2. and 3. can be found attached in the repository as Gramoday.docx.
+
+Thank You
+Deevanshu Aggarwal
+9417850555
